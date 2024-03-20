@@ -1,4 +1,4 @@
-2. Write a java program to implement synchronization, write clear java coding steps how to do synchronization with java thread objects. 
+/*2. Write a java program to implement synchronization, write clear java coding steps how to do synchronization with java thread objects. */
 
 class Counter {
     private int count = 0;

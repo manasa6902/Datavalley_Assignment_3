@@ -1,4 +1,4 @@
-Write a java program, how to implement serialization for a given object. Use required classes and process to complete the serialization. for example take Customer(id, name, contactNo and address) class, use should write the java code, how to serialize Customer object to JavaObject.txt file.
+/*Write a java program, how to implement serialization for a given object. Use required classes and process to complete the serialization. for example take Customer(id, name, contactNo and address) class, use should write the java code, how to serialize Customer object to JavaObject.txt file.*/
 
 
 import java.io.*;

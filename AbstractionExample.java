@@ -1,10 +1,10 @@
- 3. What is abstraction in java, how many ways can we implement abstraction, write proper java program and how to implement abstraction.
+/* 3. What is abstraction in java, how many ways can we implement abstraction, write proper java program and how to implement abstraction.*/
 
-Abstraction: Abstraction in java is defined as a process in which we only show essential functionality or details to the user and non essential implementation details are not displayed to the user.
+/*Abstraction: Abstraction in java is defined as a process in which we only show essential functionality or details to the user and non essential implementation details are not displayed to the user.
 There are 2 ways to achieve abstraction in java they are:
 1.Abstraction classes
-2.Interfaces
-
+2.Interfaces*/
+ 
 abstract class Shape {
     public abstract double area();
   
